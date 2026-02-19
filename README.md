@@ -1,2 +1,3 @@
-# lite-mobile-app-s58g
-Automated issue comment bot repository
+# Lite Mobile App S58G
+
+Automated issue comment bot repository.
